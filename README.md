@@ -1,4 +1,14 @@
-msc
-===
+# Zusammenfassung 
+Die universelle Verfügbarkeit von breitbandigen Netzzugängen hat das Zusammenarbeiten von Menschen in den letzten 15 Jahren nachhaltig verändert. Sie stellen einen Grundstein für die Zusammenarbeit in Echtzeit dar. Ein weiteres grundlegendes Element, ohne das die diese Zusammenar- beit in Echtzeit nicht möglich wäre, sind Algorithmen. Diese schaffen die Grundlage dafür, dass Daten ohne spürbare Verzögerung ausgetauscht und verarbeitet werden können. Ein Verfahren für die Verarbeitung dieser Daten ist die Operational Transformation (OT). Dieses ermöglicht es mehreren Nutzern, ein Dokument gleichzeitig zu bearbeiten und die Änderungen der jeweils anderen Nutzer zu sehen. Die hohe Komplexität der OT-Algorithmen führt dazu, dass einerseits das Nachvollziehen und andererseits die testweise Implementation schwierig und aufwendig ist. 
+Diese Arbeit nimmt sich diesem Problem an und unterbreitet mit der Simulationsumgebung Simone auf konzeptioneller Ebene einen umfangrei- chen Lösungsansatz. Es werden unterschiedliche Teilkonzepte ausgearbeitet und vorgestellt, bei deren Umsetzung die Simulationsumgebung die Arbeit mit OT-Algorithmen erleichtern kann. In einer Fallstudie wird gezeigt, wie sich die Auseinandersetzung mit OT-Algorithmen ohne und mit der Simulationsumgebung gestaltet. 
+Im Ergebnis zeigt die Arbeit, dass ein an die Erfordernisse von OT- Algorithmen angepasstes Interface die Arbeit mit eben diesen unterstützen und erleichtern kann. Durch die Bereitstellung eines Rahmens für die Ausführung kann der Fokus von der Schaffung einer Bedienungsschnittstelle auf die Auseinandersetzung mit dem eigentlichen Algorithmus verlagert werden. 
 
-Masterarbeit - Simulieren und Testen von Operational Transform Algorithmen
+Dieses Werk ist lizenziert unter einer [Creative Commons](http://creativecommons.org/licenses/by-nc-sa/4.0/) Namensnen- nung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.
+
+
+# abstract
+The ubiquitous access to broadband internet has changed the collaboration over the last 15 years strongly. It represents a cornerstone for the real time collaboration. Another basic element which is crucial for real time collabora- tion are the algorithms. Both provide the fundament to exchange and process the data in real time. A particular method is Operational Transformation (OT). It allows multiple users to edit a shared document in real time and to see changes by all other users instantly. The high complexity of OT algorithms makes it difficult and costly to retrace the exact work and to implement an optimal execution environment, especially because the OT algorithms work distributed. 
+This Thesis investigates this problem and proposes the simulation environ- ment Simone as a conceptual approach. The different parts of the approach will be elaborated and discussed. The case study compares the work with OT algorithms by using Simone and an alternative approach. 
+It has been shown that interface which is customized by the requirements of an OT algorithm can facilitate the work. By providing a framework the focus can be shifted from the programming parts to the algorithms itself. 
+
+This work is licensed under a [Creative Commons](http://creativecommons.org/licenses/by-nc-sa/4.0/) Attribution 4.0 International License.
